@@ -1,0 +1,75 @@
+The Ansible modules are grouped  
+- System:
+	 - User:
+	 - Group:
+	 - Hostname:
+	 - Iptables:
+	 - Lvg:
+	 - Lvol:
+	 - Make:
+	 - Mount:
+	 - Ping:
+	 - Timezone:
+	 - Systemd:
+	 - Service:
+- Commands
+	- command:
+	- expect:
+	- Raw:
+	- Script
+	- Shell
+- Files
+	- Acl:
+	- Archive:
+	- Copy:
+	- File:
+	- Find:
+	- Lineinfile:
+	- Replace:
+	- Start:
+	- Template:
+	- Unarchive:
+- Database
+	- Mongodb:
+	- Mssql:
+	- Mysql:
+	- Postgresql:
+	- Proxysql:
+	- vertica:
+- Cloud
+	- Amazon:
+	- Atomic:
+	- Azure:
+	- Centurylink
+	- Cloudscale:
+	- Cloudstack:
+	- Digital Ocean:
+	- Docer:
+	- Google:
+	- Linode:
+	- Openstack:
+	- Rackspace:
+	- Smartod:
+	- Softlayer:
+	- VMware:
+- Windows
+	- Win_copy:
+	- Win_command:
+	- Win_domain:
+	- Win_file
+	- Win_iis_website:
+	- Win_msg:
+	- Win_msi:
+	- Win_package:
+	- Win_ping:
+	- Win_path:
+	- Win_robocopy:
+	- Win_regedit:
+	- Win_shell:
+	- Win_service:
+	- Win_user
+	- Win_ .... and so on ...
+- More....
+
+
+> Written with [StackEdit](https://stackedit.io/).
